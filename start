@@ -1,4 +1,4 @@
 #!/bin/bash
-(exec "./bin/EscapeTactic")
 echo "Started EscapeTactic"
+nohup ./bin/EscapeTactic &>/dev/null &
 
