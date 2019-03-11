@@ -25,3 +25,8 @@ When the programm is runnig it will listen to the keypress on ESC on the touchba
 `cd EscapeTactic`
 
 `./start &`
+
+
+## Test
+
+Now put a finder on your trackpad and press ESC at the same time, the trackpad should vibrate
