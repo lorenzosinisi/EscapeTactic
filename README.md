@@ -12,7 +12,7 @@ When the programm is runnig it will listen to the keypress on ESC on the touchba
 
 `./bin/EscapeTactic`
 
-## Run it with in a shell session
+## Run it in a shell session
 
 `git clone git@github.com:lorenzosinisi/EscapeTactic.git`
 
