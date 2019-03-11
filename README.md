@@ -18,7 +18,7 @@ When the programm is runnig it will listen to the keypress on ESC on the touchba
 
 `cd EscapeTactic`
 
-`./start` # and stop it with `./stop`
+`./bin/EscapeTactic` # and stop it with `./stop`
 
 ## Run it as a daemon
 
