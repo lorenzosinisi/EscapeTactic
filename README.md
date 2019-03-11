@@ -33,5 +33,10 @@ When the programm is runnig it will listen to the keypress on ESC on the touchba
 
 Now put a finder on your trackpad and press ESC at the same time, the trackpad should vibrate
 
+## TODOs
+
+- create a homebrew formula with commands to start and stop the binary
+
+## Special thanks
 
 Thanks to [https://github.com/SkrewEverything/Swift-Keylogger](https://github.com/SkrewEverything/Swift-Keylogger) for the initial code
