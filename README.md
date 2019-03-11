@@ -32,3 +32,6 @@ When the programm is runnig it will listen to the keypress on ESC on the touchba
 ## Test
 
 Now put a finder on your trackpad and press ESC at the same time, the trackpad should vibrate
+
+
+Thanks to [https://github.com/SkrewEverything/Swift-Keylogger](https://github.com/SkrewEverything/Swift-Keylogger) for the initial code
