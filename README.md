@@ -26,7 +26,7 @@ When the programm is runnig it will listen to the keypress on ESC on the touchba
 
 `cd EscapeTactic`
 
-`./start`
+`./escape_tactic start` # or `./escape_tactic stop`
 
 
 ## Test
