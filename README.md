@@ -7,7 +7,9 @@ When the programm is runnig it will listen to the keypress on ESC on the touchba
 ## Run it with a session 
 
 `git clone git@github.com:lorenzosinisi/EscapeTactic.git`
+
 `cd EscapeTactic`
+
 `./bin/EscapeTactic`
 
 ## Run it with in a shell session
@@ -24,7 +26,7 @@ When the programm is runnig it will listen to the keypress on ESC on the touchba
 
 `cd EscapeTactic`
 
-`./start &`
+`nohup ./start &>/dev/null & `
 
 
 ## Test
