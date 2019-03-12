@@ -2,7 +2,7 @@
 
 ## MacOS touchbar vibration feedback (Haptic feedback for ESC key)
 
-When the programm is runnig, it will listen to the keypress ESC on the touchbar and give you an haptic feedback (trackpad vibrates) 
+When the programm is running, it will listen to the keypress ESC on the touchbar and give you an haptic feedback (trackpad vibrates) 
 
 ## Run it in a shell session
 
