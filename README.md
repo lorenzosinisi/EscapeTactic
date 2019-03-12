@@ -6,7 +6,7 @@ When the programm is runnig, it will listen to the keypress ESC on the touchbar 
 
 ## Run it in a shell session
 
-`git clone git@github.com:lorenzosinisi/EscapeTactic.git`
+`git clone https://github.com/lorenzosinisi/EscapeTactic.git`
 
 `cd EscapeTactic`
 
@@ -14,7 +14,7 @@ When the programm is runnig, it will listen to the keypress ESC on the touchbar 
 
 ## Run it as a daemon
 
-`git clone git@github.com:lorenzosinisi/EscapeTactic.git`
+`git clone https://github.com/lorenzosinisi/EscapeTactic.git`
 
 `cd EscapeTactic`
 
