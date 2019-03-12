@@ -23,7 +23,7 @@ When the programm is runnig, it will listen to the keypress ESC on the touchbar 
 
 ## Test
 
-Now put a finger on your trackpad and press ESC at the same time, the trackpad should vibrate :celebrate
+Now put a finger on your trackpad and press ESC at the same time, the trackpad should vibrate
 
 ## TODOs
 
